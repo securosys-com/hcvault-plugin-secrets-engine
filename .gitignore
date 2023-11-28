@@ -1,0 +1,7 @@
+builds
+test
+
+vault_exec
+
+deploy
+.gitlab-ci.yml

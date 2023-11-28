@@ -1,0 +1,97 @@
+{
+    "ruleUse": {
+      "tokens": [
+        {
+          "name": "MAIN1",
+          "timelock": 0,
+          "timeout": 0,
+          "groups": [
+            {
+              "name": "MAIN1",
+              "quorum": 1,
+              "approvals": [
+                {
+                  "type": "public_key",
+                  "name": "replace_me_with_approval_name",
+                  "value": 
+"replace_me_with_approval_key"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ruleBlock": {
+      "tokens": [
+        {
+          "name": "MAIN1",
+          "timelock": 0,
+          "timeout": 0,
+          "groups": [
+            {
+              "name": "MAIN1",
+              "quorum": 1,
+              "approvals": [
+                {
+                  "type": "public_key",
+                  "name": "replace_me_with_approval_name",
+                  "value": 
+                    "replace_me_with_approval_key"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ruleUnblock": {
+      "tokens": [
+        {
+          "name": "MAIN1",
+          "timelock": 0,
+          "timeout": 0,
+          "groups": [
+            {
+              "name": "MAIN1",
+              "quorum": 1,
+              "approvals": [
+                {
+                  "type": "public_key",
+                  "name": "replace_me_with_approval_name",
+                  "value": 
+                    "replace_me_with_approval_key"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ruleModify": {
+      "tokens": [
+        {
+          "name": "MAIN1",
+          "timelock": 0,
+          "timeout": 0,
+          "groups": [
+            {
+              "name": "MAIN1",
+              "quorum": 1,
+              "approvals": [
+                {
+                  "type": "public_key",
+                  "name": "TM",
+                  "value": 
+"replace_me_with_approval_key/fAIZusqyNXpX6gcRTwnrxZfIlyATdAm7ascxgYIK+L2M9UFVKTPUxus/Hzfuq0Fro5tdH+DWwfYQtcB5vap3UTw3yNpi6/MUe1x1Odwwi3no3jE2OuF1k6wjyrbWBkyktF3g8BmOD0DFpGl4IIlE8u1NgOMyAzlIuzAiyl4aCHrddhfV6gFtrRqfpUMz0twXYYoHlK0khzVEVn757WZZcIQFZmjKMfp/Yl/CAkBrTGVnFHMmNOYq7L9vhoR71rPmU9u2sy6IaT97qox/e7HSW47N2YNSiuJeq08I3Tn/kyw6+pSjAMu4A48PrfQIDAQAB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "keyStatus": {
+      "blocked": false
+    }
+  }
