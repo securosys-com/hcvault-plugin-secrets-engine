@@ -1,0 +1,4 @@
+builds
+vault
+deploy
+.gitlab-ci.yml
